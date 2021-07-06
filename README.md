@@ -5,7 +5,7 @@ Bonjour à tous je vous présente aujourd'hui une petite modification du [esx_cu
 # Preview
 
 Vidéo de présentation de la base :
- - 🎥 [Preview HUD](https://streamable.com/477a6f)
+ - 🎥 [Vidéo Preview HUD](https://streamable.com/477a6f)
  
  ![screenshot](https://media.discordapp.net/attachments/723268302255816724/862103945080995860/FlashbackHUD.PNG)
  
