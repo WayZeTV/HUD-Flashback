@@ -5,7 +5,7 @@ Bonjour à tous je vous présente aujourd'hui une petite modification du [esx_cu
 # Preview
 
 Vidéo de présentation de la base :
- - 🎥 [Preview HUD] Soon...  
+ - 🎥 [Preview HUD](https://streamable.com/477a6f)
  
 # Requirments
 
