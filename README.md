@@ -8,7 +8,7 @@ Bonjour à tous je vous présente aujourd'hui une petite modification du [esx_cu
  
  ![screenshot](https://media.discordapp.net/attachments/723268302255816724/862103945080995860/FlashbackHUD.PNG)
  
-# Requirments
+# Requirements
 
 - [esx_basicneeds](https://discord.com/channels/723245101282885742/723274007889182752/838806258282004481) 
 - [esx_status](https://discord.com/channels/723245101282885742/723274007889182752/838806286275313685) 
